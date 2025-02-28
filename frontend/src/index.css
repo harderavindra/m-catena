@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@theme {
+    --green-shadow-md:  -3px 4px 9px 0px rgba(67, 175, 122, 0.60) ; 
+    --color-red-500:#E31836;
+    --color-red-600:#D60827;
+    
+  }   
